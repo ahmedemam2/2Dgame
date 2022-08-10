@@ -1,3 +1,2 @@
 # 2Dgame
-A simple 2D game using C#
-Missing parts: shoot and collision
+A 2d game where you have to defeat obstacles to progress implemented in C#
